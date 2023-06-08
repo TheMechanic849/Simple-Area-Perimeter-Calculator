@@ -9,7 +9,7 @@ How it works:
 --> for the squares you will need  the variable "sides" to define the square side;
 
 --> for the rectangles you will need to use the "sides" variable again , but you will need to separate the numbers by "/";
-    Ex: 2,5/3
+    Ex: 2.5/3
 
 --> for the area of the triangles you will need to use the variables "base" for the base of the triangle ,
     and "height" for the height of the triangle;
