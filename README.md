@@ -6,6 +6,7 @@ hope you like it ,its so simple, but a test for me to continue :)
 This is a simple area and perimeter calculator for the basics like squares , rectangles and Triangles
 
 How it works:
+
 --> for the squares you will need  the variable "sides" to define the square side;
 
 --> for the rectangles you will need to use the "sides" variable again , but you will need to separate the numbers by "/";
@@ -19,8 +20,13 @@ How it works:
 Call commands:
 
 --> "from Calculator.Square import squarearea" for the square area; 
+
 --> "from Calculator.Square import squareperimeter" for the square perimeter;
+
 --> "from Calculator.Rectangule import rectarea"  for the rectangle area;
+
 --> "from Calculator.Rectangule import rectperimeter" for the rectangle perimeter;
+
 --> "from Calculator.Triangule import triangarea"  for the triangle area;
+
 --> "from Calculator.Triangule import triangperimeter" for the triangle perimeter;
